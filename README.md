@@ -13,42 +13,36 @@ Overall, I am a dedicated, responsible, and innovative full stack developer with
 ## Skills
 
 <table>
-  <tr>
-    <td>JavaScript</td>
-    <td>PHP</td>
-    <td>WordPress</td>
-  </tr>
-  <tr>
-    <td>React JS</td>
-    <td>Laravel</td>
-    <td>API Rest</td>
-  </tr>
-  <tr>
-    <td>React Native</td>
-    <td>MySql</td>
-    <td>PostgreSQL</td>
-  </tr>
-  <tr>
-    <td>HTML 5</td>
-    <td>Node.js</td>
-    <td>Docker</td>
-  </tr>
-  <tr>
-    <td>jQuery</td>
-    <td>Git</td>
-    <td>WooCommerce</td>
-  </tr>
-  <tr>
-    <td>CSS3</td>
-    <td>SASS</td>
-    <td>Cypress.io</td>
-  </tr>
-  <tr>
-    <td>Jira</td>
-    <td>Typescript</td>
-    <td>Scrum</td>
-  </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>PHP</td>
+        <td>WordPress</td>
+        <td>API Rest</td>
+        <td>Docker</td>
+    </tr>
+    <tr>
+        <td>React JS</td>
+        <td>Laravel</td>
+        <td>MySql</td>
+        <td>PostgreSQL</td>
+        <td>WooCommerce</td>
+    </tr>
+    <tr>
+        <td>React Native</td>
+        <td>Node.js</td>
+        <td>Git</td>
+        <td>Cypress.io</td>
+        <td>Scrum</td>
+    </tr>
+    <tr>
+        <td>HTML 5</td>
+        <td>jQuery</td>
+        <td>SASS</td>
+        <td>Typescript</td>
+        <td>Jira</td>
+    </tr>
 </table>
+
 
 ## Contact
 
