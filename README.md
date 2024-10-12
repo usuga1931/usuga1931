@@ -10,7 +10,7 @@ My adaptability and teamwork skills are a major asset to any project, and I prid
 
 Overall, I am a dedicated, responsible, and innovative full stack developer with a proven track record of success.
 
-## Skills
+## Skills 🤖
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Overall, I am a dedicated, responsible, and innovative full stack developer with
 </table>
 
 
-## Contact
+## Contact 📪
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jsua1995/) for any collaborations or exciting opportunities that may come up.
 
